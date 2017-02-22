@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-This is for first branch ....
-Mofied one
-=======
-My 1st branch
->>>>>>> firstbranch
